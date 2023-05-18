@@ -1,0 +1,11 @@
+c:\users\ds-tec-2.acad\documents\visual studio 2015\Projects\exemplocrud\exemplocrud\bin\Debug\exemplocrud.exe.config
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\bin\Debug\exemplocrud.exe
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\bin\Debug\exemplocrud.pdb
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\bin\Debug\MySql.Data.dll
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\obj\Debug\exemplocrud.csprojResolveAssemblyReference.cache
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\obj\Debug\exemplocrud.Form1.resources
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\obj\Debug\exemplocrud.frm_cinema.resources
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\obj\Debug\exemplocrud.Properties.Resources.resources
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\obj\Debug\exemplocrud.csproj.GenerateResource.Cache
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\obj\Debug\exemplocrud.exe
+C:\Users\ds-tec-2.ACAD\Documents\Visual Studio 2015\Projects\exemplocrud\exemplocrud\obj\Debug\exemplocrud.pdb
